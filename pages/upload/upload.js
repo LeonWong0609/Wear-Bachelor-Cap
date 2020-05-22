@@ -24,7 +24,7 @@ Page({
         height: 300
       },
       boundStyle: {
-        color: '#E54D42',
+        color: '#C30D18',
         mask: 'rgba(0,0,0,0.8)',
         lineWidth: 1
       }
@@ -78,7 +78,7 @@ Page({
       cropperOpt
     } = this.data
 
-    cropperOpt.boundStyle.color = '#E54D42'
+    cropperOpt.boundStyle.color = '#C30D18'
 
     this.setData({
       cropperOpt

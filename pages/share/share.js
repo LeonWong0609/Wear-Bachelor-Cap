@@ -74,7 +74,7 @@ Page({
       app.globalData.successPic :
       "https://image.idealclover.cn/projects/Wear-Bachelor-Cap/avatar_share.jpg";
     return {
-      title: "戴上学士帽，我们毕业啦！",
+      title: "快来获取 UCASSers 2020 专属毕业头像！",
       imageUrl: successPic,
       path: "/pages/index/index",
       success: function(res) {}
